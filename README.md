@@ -2,6 +2,8 @@
 
 ### Apparel Recommendation - Multi Class Classification
 <br />
+Data Description:<br />
+<br />
 CustomerID:	Represents a unique identification number of a customer<br />
 CustomerName:	Represents the name of a customer<br />
 CustomerAge:	Represents the age of a customer<br />
